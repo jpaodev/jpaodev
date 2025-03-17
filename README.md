@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jpaodev
+- 💼 I work for Deutsche Telekom IT GmbH as Engineer / Manager in the AI (primarily Dev Tools) area
 - 👀 I’m interested in IT-Security, Automation and Programming in general
 - 🌱 I’m currently learning some reverse engineering
 - 📘 I'm currently reading the OWASP Web Security Testing guide
